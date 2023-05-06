@@ -1,0 +1,1 @@
+select count(*) from edge, node as node1, node as node2 where edge.from_id = node1.id and edge.to_id = node2.id and node1.id !=node2.id group by edge.date;

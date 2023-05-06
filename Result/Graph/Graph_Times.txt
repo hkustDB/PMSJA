@@ -1,0 +1,138 @@
+Q9stackoverflow_a2q_10p times: 
+The time for the 0th execution is
+7.5426225662231445
+The time for the 1th execution is
+7.6467530727386475
+The time for the 2th execution is
+8.19660210609436
+The time for the 3th execution is
+7.578665494918823
+The time for the 4th execution is
+7.547107934951782
+The time for the 5th execution is
+7.600311517715454
+The time for the 6th execution is
+7.728980302810669
+The time for the 7th execution is
+7.661030054092407
+The time for the 8th execution is
+7.702852010726929
+The time for the 9th execution is
+7.598707437515259
+Average time for Q9stackoverflow_a2q_10p is 
+7.680363249778748
+Q9stackoverflow_c2a_10p times: 
+The time for the 0th execution is
+5.6652586460113525
+The time for the 1th execution is
+5.75490927696228
+The time for the 2th execution is
+6.196878433227539
+The time for the 3th execution is
+5.622656345367432
+The time for the 4th execution is
+6.105164289474487
+The time for the 5th execution is
+6.643374443054199
+The time for the 6th execution is
+6.371544122695923
+The time for the 7th execution is
+6.017181634902954
+The time for the 8th execution is
+5.940891742706299
+The time for the 9th execution is
+5.808383464813232
+Average time for Q9stackoverflow_c2a_10p is 
+6.0126242399215695
+Q10stackoverflow_a2q_10p times: 
+The time for the 0th execution is
+7.570846080780029
+The time for the 1th execution is
+7.739121913909912
+The time for the 2th execution is
+7.49182391166687
+The time for the 3th execution is
+7.092444896697998
+The time for the 4th execution is
+7.305176258087158
+The time for the 5th execution is
+7.413801431655884
+The time for the 6th execution is
+7.290107250213623
+The time for the 7th execution is
+7.114784240722656
+The time for the 8th execution is
+7.447144031524658
+The time for the 9th execution is
+7.5265867710113525
+Average time for Q10stackoverflow_a2q_10p is 
+7.399183678627014
+Q10stackoverflow_c2a_10p times: 
+The time for the 0th execution is
+6.863258600234985
+The time for the 1th execution is
+7.1318230628967285
+The time for the 2th execution is
+7.156793117523193
+The time for the 3th execution is
+7.040388822555542
+The time for the 4th execution is
+7.2201220989227295
+The time for the 5th execution is
+7.3957061767578125
+The time for the 6th execution is
+7.090040683746338
+The time for the 7th execution is
+7.034786939620972
+The time for the 8th execution is
+7.143534421920776
+The time for the 9th execution is
+7.256535530090332
+Average time for Q10stackoverflow_c2a_10p is 
+7.133298945426941
+Q14stackoverflow_a2q_10p times: 
+The time for the 0th execution is
+8.342773914337158
+The time for the 1th execution is
+7.750373840332031
+The time for the 2th execution is
+8.10747480392456
+The time for the 3th execution is
+7.9220685958862305
+The time for the 4th execution is
+7.775551080703735
+The time for the 5th execution is
+8.089723110198975
+The time for the 6th execution is
+7.895436525344849
+The time for the 7th execution is
+7.824044704437256
+The time for the 8th execution is
+8.088067770004272
+The time for the 9th execution is
+7.870073080062866
+Average time for Q14stackoverflow_a2q_10p is 
+7.966558742523193
+Q14stackoverflow_c2a_10p times: 
+The time for the 0th execution is
+8.476860761642456
+The time for the 1th execution is
+8.379115581512451
+The time for the 2th execution is
+8.359599351882935
+The time for the 3th execution is
+8.267165422439575
+The time for the 4th execution is
+8.559169292449951
+The time for the 5th execution is
+9.431079626083374
+The time for the 6th execution is
+8.54184889793396
+The time for the 7th execution is
+8.593949317932129
+The time for the 8th execution is
+8.935471534729004
+The time for the 9th execution is
+8.467609405517578
+Average time for Q14stackoverflow_c2a_10p is 
+8.601186919212342
